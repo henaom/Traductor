@@ -13,16 +13,16 @@ from gtts import gTTS
 from googletrans import Translator
 
 
-st.title("Interfaces Multimodales")
+st.title("Traductor")
 st.subheader("TRADUCTOR")
 
 
-image = Image.open('traductor.jpg')
+image = Image.open('Translate icon.jpeg')
 
 st.image(image)
 
 
-st.write("Toca el Botón y habla lo que quires traducir")
+st.write("Toca el Botón y dime lo que quieres traducir")
 
 stt_button = Button(label=" Inicio ", width=200)
 
