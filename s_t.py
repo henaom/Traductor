@@ -14,7 +14,7 @@ from googletrans import Translator
 
 
 st.title("Traductor")
-st.subheader("TRADUCTOR")
+st.subheader("Hola vamos a hablar Que quieres TRADUCIR")
 
 
 image = Image.open('Translate icon.jpeg')
